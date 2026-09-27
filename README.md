@@ -40,7 +40,7 @@ Actualmente estoy fortaleciendo mi portafolio para postularme a estadías profes
 
 ## 📌 Proyectos destacados
 
-### 🛡️ GuardIA
+### 🛡️ [GuardIA](https://github.com/rodolfo-estrada/GuardIA)
 **Sistema inteligente de videovigilancia con detección en tiempo real mediante visión por computadora.**
 
 GuardIA es una plataforma de seguridad y videovigilancia orientada a mejorar la gestión de incidentes y el acceso a información en tiempo real. El proyecto contempla un panel administrativo web y capacidades de monitoreo inteligente.
@@ -55,7 +55,7 @@ GuardIA es una plataforma de seguridad y videovigilancia orientada a mejorar la 
 - Registro de incidentes y actividades
 - Arquitectura preparada para alertas, reportes e integración con cámaras
 
-> La documentación y el código del repositorio se publicarán próximamente.
+**Repositorio:** [github.com/rodolfo-estrada/GuardIA](https://github.com/rodolfo-estrada/GuardIA)
 
 ---
 
