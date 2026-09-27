@@ -1,95 +1,95 @@
-# Hi, I'm Rodolfo Estrada Sánchez 👋
+# Hola, soy Rodolfo Estrada Sánchez 👋
 
-### Software Engineering Student | Full Stack Development
+### Estudiante de Ingeniería de Software | Desarrollo Full Stack
 
-I am a Software Engineering student focused on building practical, maintainable, and scalable software solutions. I am especially interested in web development, backend development, databases, cloud technologies, and modern software engineering practices.
+Soy estudiante de Ingeniería de Software enfocado en desarrollar soluciones prácticas, mantenibles y escalables. Me interesa especialmente el desarrollo web, el backend, las bases de datos, las tecnologías cloud y las buenas prácticas de ingeniería de software.
 
-I am currently strengthening my portfolio for professional internships and junior software development opportunities.
-
----
-
-## 🚀 About me
-
-- 🎓 Software Engineering student
-- 💻 Interested in Full Stack and Backend Development
-- 🌐 Building web applications and multiplatform solutions
-- 🗄️ Working with relational databases, Firebase, and API-driven applications
-- 🐳 Learning and applying containerization and cloud deployment
-- 📚 Continuously improving through projects, courses, and certifications
+Actualmente estoy fortaleciendo mi portafolio para postularme a estadías profesionales, programas trainee y posiciones junior en desarrollo de software.
 
 ---
 
-## 🛠️ Technologies
+## 🚀 Sobre mí
 
-### Languages
+- 🎓 Estudiante de Ingeniería de Software
+- 💻 Interesado en Desarrollo Full Stack y Backend
+- 🌐 Desarrollo de aplicaciones web y soluciones multiplataforma
+- 🗄️ Experiencia con bases de datos relacionales, Firebase y aplicaciones basadas en APIs
+- 🐳 Aprendiendo y aplicando contenedores y despliegue en la nube
+- 📚 En constante aprendizaje mediante proyectos, cursos y certificaciones
+
+---
+
+## 🛠️ Tecnologías
+
+### Lenguajes
 `Java` · `Python` · `PHP` · `JavaScript` · `SQL`
 
-### Web & Multiplatform
+### Web y Multiplataforma
 `HTML5` · `CSS3` · `JavaScript` · `React` · `Flutter` · `REST APIs`
 
-### Databases & Backend Services
+### Bases de datos y servicios backend
 `PostgreSQL` · `MySQL` · `Firebase` · `Firestore`
 
-### AI & Computer Vision
+### IA y Visión por Computadora
 `YOLOv8` · `OpenCV`
 
-### Tools & DevOps
+### Herramientas y DevOps
 `Git` · `GitHub` · `Docker` · `Linux`
 
 ---
 
-## 📌 Featured Projects
+## 📌 Proyectos destacados
 
 ### 🛡️ GuardIA
-**Intelligent video surveillance system with real-time detection using computer vision.**
+**Sistema inteligente de videovigilancia con detección en tiempo real mediante visión por computadora.**
 
-GuardIA is a security and video surveillance platform designed to improve incident management and access to real-time information. The project includes an administrative web panel and intelligent monitoring capabilities.
+GuardIA es una plataforma de seguridad y videovigilancia orientada a mejorar la gestión de incidentes y el acceso a información en tiempo real. El proyecto contempla un panel administrativo web y capacidades de monitoreo inteligente.
 
-**Technologies:** `Python` · `YOLOv8` · `OpenCV` · `React` · `Firebase`
+**Tecnologías:** `Python` · `YOLOv8` · `OpenCV` · `React` · `Firebase`
 
-**Highlights:**
-- Real-time computer vision detection
-- Intelligent surveillance workflow
-- Administrative web dashboard
-- Authentication and role-based access
-- Incident and activity logging
-- Architecture prepared for alerts, reports, and camera integration
+**Características principales:**
+- Detección en tiempo real con visión por computadora
+- Flujo de monitoreo inteligente
+- Panel administrativo web
+- Autenticación y acceso basado en roles
+- Registro de incidentes y actividades
+- Arquitectura preparada para alertas, reportes e integración con cámaras
 
-> Repository documentation and source code will be published soon.
+> La documentación y el código del repositorio se publicarán próximamente.
 
 ---
 
 ### 🔗 EA-Connect
-**Multiplatform application for user, project, and communication management with Firebase.**
+**Aplicación multiplataforma para la gestión de usuarios, proyectos y comunicación con Firebase.**
 
-EA-Connect centralizes user management, projects, content, and communication in a multiplatform environment, including real-time messaging and push notifications.
+EA-Connect centraliza la gestión de usuarios, proyectos, contenido y comunicación dentro de un entorno multiplataforma, incluyendo mensajería en tiempo real y notificaciones push.
 
-**Technologies:** `Flutter` · `Firebase` · `Firestore` · `FCM` · `JavaScript`
+**Tecnologías:** `Flutter` · `Firebase` · `Firestore` · `FCM` · `JavaScript`
 
-**Highlights:**
-- User and role management
-- Project management
-- Real-time chat
-- Image sharing
-- Push notifications with Firebase Cloud Messaging
-- Firebase authentication and cloud data management
+**Características principales:**
+- Gestión de usuarios y roles
+- Gestión de proyectos
+- Chat en tiempo real
+- Envío y gestión de imágenes
+- Notificaciones push con Firebase Cloud Messaging
+- Autenticación y gestión de datos en la nube con Firebase
 
-> Repository documentation and source code will be published soon.
-
----
-
-## 🎯 Current goal
-
-I am looking for opportunities to gain professional experience through software development internships, trainee programs, and junior roles where I can contribute to real projects while continuing to grow as a developer.
+> La documentación y el código del repositorio se publicarán próximamente.
 
 ---
 
-## 📫 Contact
+## 🎯 Objetivo profesional
+
+Busco oportunidades de estadía profesional, programas trainee o posiciones junior en desarrollo de software donde pueda aportar en proyectos reales, fortalecer mi experiencia profesional y continuar creciendo como desarrollador.
+
+---
+
+## 📫 Contacto
 
 - GitHub: [github.com/rodolfo-estrada](https://github.com/rodolfo-estrada)
-- LinkedIn: Coming soon
-- Professional email: Coming soon
+- LinkedIn: Próximamente
+- Correo profesional: Próximamente
 
 ---
 
-> This profile is continuously being updated as I publish new projects and certifications.
+> Este perfil se encuentra en actualización constante conforme publico nuevos proyectos y certificaciones.
