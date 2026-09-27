@@ -12,8 +12,8 @@ I am currently strengthening my portfolio for professional internships and junio
 
 - 🎓 Software Engineering student
 - 💻 Interested in Full Stack and Backend Development
-- 🌐 Building web applications and Progressive Web Apps (PWA)
-- 🗄️ Working with relational databases and API-driven applications
+- 🌐 Building web applications and multiplatform solutions
+- 🗄️ Working with relational databases, Firebase, and API-driven applications
 - 🐳 Learning and applying containerization and cloud deployment
 - 📚 Continuously improving through projects, courses, and certifications
 
@@ -24,29 +24,57 @@ I am currently strengthening my portfolio for professional internships and junio
 ### Languages
 `Java` · `Python` · `PHP` · `JavaScript` · `SQL`
 
-### Web
-`HTML5` · `CSS3` · `JavaScript` · `PWA` · `REST APIs`
+### Web & Multiplatform
+`HTML5` · `CSS3` · `JavaScript` · `React` · `Flutter` · `REST APIs`
 
-### Databases
-`PostgreSQL` · `MySQL`
+### Databases & Backend Services
+`PostgreSQL` · `MySQL` · `Firebase` · `Firestore`
+
+### AI & Computer Vision
+`YOLOv8` · `OpenCV`
 
 ### Tools & DevOps
 `Git` · `GitHub` · `Docker` · `Linux`
 
 ---
 
-## 📌 Featured projects
+## 📌 Featured Projects
 
-I am currently organizing and publishing my strongest projects here. Each repository will include documentation, technologies used, setup instructions, screenshots, and a clear explanation of the problem solved.
+### 🛡️ GuardIA
+**Intelligent video surveillance system with real-time detection using computer vision.**
 
-Upcoming portfolio areas:
+GuardIA is a security and video surveillance platform designed to improve incident management and access to real-time information. The project includes an administrative web panel and intelligent monitoring capabilities.
 
-- Full Stack Web Development
-- Backend & REST APIs
-- Progressive Web Apps
-- Java Applications
-- Python Projects
-- Docker & Cloud Deployment
+**Technologies:** `Python` · `YOLOv8` · `OpenCV` · `React` · `Firebase`
+
+**Highlights:**
+- Real-time computer vision detection
+- Intelligent surveillance workflow
+- Administrative web dashboard
+- Authentication and role-based access
+- Incident and activity logging
+- Architecture prepared for alerts, reports, and camera integration
+
+> Repository documentation and source code will be published soon.
+
+---
+
+### 🔗 EA-Connect
+**Multiplatform application for user, project, and communication management with Firebase.**
+
+EA-Connect centralizes user management, projects, content, and communication in a multiplatform environment, including real-time messaging and push notifications.
+
+**Technologies:** `Flutter` · `Firebase` · `Firestore` · `FCM` · `JavaScript`
+
+**Highlights:**
+- User and role management
+- Project management
+- Real-time chat
+- Image sharing
+- Push notifications with Firebase Cloud Messaging
+- Firebase authentication and cloud data management
+
+> Repository documentation and source code will be published soon.
 
 ---
 
